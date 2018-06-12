@@ -1,3 +1,5 @@
 sup? How is your day?
 
 nick: my day is great! i have a job interview tomorrow.
+
+master: YAY! That's so exciting! You'll do great! :)
